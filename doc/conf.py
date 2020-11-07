@@ -181,4 +181,4 @@ epub_exclude_files = ['search.html']
 intersphinx_mapping = {'cc': ('https://www.codecraftsmen.org', None)}
 
 extlinks = {
-    'repo': ('https://github.com/codecraftingtools/flout/blob/master/%s','')}
+    'repo': ('https://github.com/codecraftingtools/flout/blob/main/%s','')}
