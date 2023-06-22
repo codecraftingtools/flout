@@ -12,11 +12,11 @@ recording of status, event, debugging, warning, and error information.
 `documentation`_ is hosted on `Read the Docs`_ and the `source code`_
 can be found on `GitHub`_.
 
-.. _Flout: https://www.codecraftsmen.org/software.html#flout
+.. _Flout: https://tools.codecraftsmen.org/software.html#flout
 .. _Code Craftsmen: https://www.codecraftsmen.org
 .. _documentation: https://flout.readthedocs.io
-.. _Read the Docs: https://www.codecraftsmen.org/foundation.html#read-the-docs
+.. _Read the Docs: https://tools.codecraftsmen.org/foundation.html#read-the-docs
 .. _source code: https://github.com/codecraftingtools/flout
-.. _GitHub: https://www.codecraftsmen.org/foundation.html#github
+.. _GitHub: https://tools.codecraftsmen.org/foundation.html#github
 
 ..  sphinx-include-summary-end
